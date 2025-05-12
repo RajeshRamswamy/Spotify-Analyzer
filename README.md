@@ -1,4 +1,5 @@
 📊 Project Overview
+
 This project uses the Spotify Web API to extract recently played songs from my personal account. The data is then processed and loaded into a PostgreSQL database. Using SQL and Power BI, I built visual dashboards to answer questions like:
 What artists do I listen to the most?
 When am I most active on Spotify?
@@ -16,15 +17,10 @@ How old is the music I listen to?
 
 🚀 Features
 ✅ Spotify API integration via OAuth
-
 ✅ Normalized listening data (artist, genre, track, time)
-
 ✅ Track release year and song "age"
-
 ✅ Top genres, artists, and play frequency analytics
-
 ✅ Hourly and daily listening behavior breakdown
-
 ✅ Dashboard built in Power BI using exported and live data
 
 🧱 Pipeline Architecture
@@ -87,14 +83,11 @@ Use included visuals or build your own!
 
 🎓 Lessons Learned
 How to securely interact with the Spotify API using OAuth
-
 Best practices for ETL pipeline organization and orchestration
-
 Data modeling for music and time-series data
-
 Creating reusable SQL queries for insights
-
 Designing visual dashboards for storytelling
+
 🔍 Sample data and screenshots are included.
 ![postgres_sample](https://github.com/user-attachments/assets/84e20752-009d-4d85-968a-02d7b50ce369)
 
