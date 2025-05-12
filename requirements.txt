@@ -1,0 +1,4 @@
+pandas==1.5.3
+psycopg2-binary==2.9.10
+spotipy==2.25.1
+sqlalchemy==2.0.40
